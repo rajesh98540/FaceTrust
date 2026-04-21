@@ -1,0 +1,4 @@
+Timestamp,Person Name,Result,Confidence,Blink Detected,Motion Detected
+2026-04-16T14:24:50.579446+00:00,Unknown,SPOOF_DETECTED,0.491,False,False
+2026-04-16T14:25:05.978437+00:00,Unknown,SPOOF_DETECTED,0.469,False,False
+2026-04-16T14:25:10.702535+00:00,Unknown,SPOOF_DETECTED,0.438,False,False
