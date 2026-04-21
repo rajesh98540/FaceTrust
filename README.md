@@ -59,7 +59,7 @@ A decision is treated as live only when cues are consistent within the recent va
 ## Project Structure
 
 ```text
-SP/
+FaceTrust/
 ├─ main.py
 ├─ face_recognition.py
 ├─ anti_spoofing.py
@@ -67,7 +67,7 @@ SP/
 ├─ session_logger.py
 ├─ requirements.txt
 ├─ README.md
-├─ dataset/
+├─ dataset/       #Add you data sets here 
 ├─ embeddings/
 │  └─ face_embeddings.npz
 ├─ logs/
